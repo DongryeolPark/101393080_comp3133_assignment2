@@ -66,9 +66,9 @@ The GraphQL API will be available at http://localhost:4000/graphql.
 Test User
 To test the system, use the following credentials:
 
-Email: testuser@domain.com
+Email: test@example.com
 
-Password: password1234
+Password: 123456
 
 Screenshots
 MongoDB Data: (Screenshot of MongoDB showing employee data)
